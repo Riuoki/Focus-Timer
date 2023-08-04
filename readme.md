@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 
 
-- [LOL Login Screen](https://riuoki.github.io/Focus-Timer/)
+- [FOCUS TIMER](https://riuoki.github.io/Focus-Timer/)
 
 ---
 
